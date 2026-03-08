@@ -1,3 +1,1 @@
-# m0zart89_platform
-m0zart89 Platform repository
-
+Platform engineering experiments around Kubernetes, automation and deployment workflows
